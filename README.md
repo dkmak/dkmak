@@ -1,8 +1,8 @@
-<h1 align="left">This is Darryl. He's a mobile software engineer. 👋.</h1>
+<h1 align="left">This is Darryl. He's a mobile software engineer. 👋</h1>
 
 ###
 
-<p align="left">Darryl (he/him) is a software engineer invested in creating beautiful products for mobile.</p>
+<p align="left">Darryl (he/him) is a software engineer invested in creating beautiful products for mobile.  He currently works at <a href="https://github.com/darrylmak">GOAT</a>.</p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,aws,git,github" alt="Skill Icons" />
 </a>
