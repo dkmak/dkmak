@@ -13,6 +13,6 @@
 
 
 ###
-><p align="left">Darryl (he/him) is a software engineer invested in creating beautiful products for mobile. Darryl started his career at Capital One with the Digital Identity team, working on Android SDKs that protected millions of customers from fraud. He also has experience working on backend microservices and API Design. He most recently worked at GOAT, a mobile-first marketplace for safely buying and selling luxury clothing items such as sneakers and high-fashion apparel.</p>
+><p align="left">Darryl (he/him) is a software engineer invested in creating beautiful products for mobile. Darryl started his career at Capital One with the Digital Identity team, working on Android SDKs that protected millions of customers from fraud. He also has experience working on backend microservices and API Design. He most recently worked at GOAT, a mobile-first marketplace for safely buying and selling luxury clothing items such as sneakers and high-fashion apparel. He is passionate about mobile development, specifically in Android, and has an active interest in cross-platform development using Kotlin Multiplaform (KMP). </p>
 
 ###
