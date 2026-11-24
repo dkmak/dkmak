@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Darryl (he/him) is a software engineer invested in creating beautiful products for mobile.  He most recently worked at <a href="https://github.com/darrylmak">GOAT</a>, and previously with  <a href="https://www.capitalone.com/digital/tools/mobile/">Capital One</a>.</p>
+<p align="left">Darryl (he/him) is a software engineer invested in creating beautiful products for mobile.  He specializes in Android development. He currently works at Hy-Vee, building products that strengthen retail operations across over 300+ stores in the US.  Previously, he  worked at <a href="https://github.com/darrylmak">GOAT</a>, and previously with  <a href="https://www.capitalone.com/digital/tools/mobile/">Capital One</a>.</p>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,aws,git,github" alt="Skill Icons" />
 </a>
